@@ -1,5 +1,6 @@
 # coffeePage
 
+Updated As of OCTOBER 17TH, 2024
 This is the Group 2 Coffee Page
 
 # Led By:
